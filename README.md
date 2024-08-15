@@ -1,3 +1,4 @@
+# Activity Title
 Activity (ppp-1-introduction-to-python-data-types)
 
 ## Link to School activity page.
