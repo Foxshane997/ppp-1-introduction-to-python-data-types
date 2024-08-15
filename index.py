@@ -3,10 +3,11 @@ cool_string = "Hello world";
 print (cool_string);
 
 # Question 2
-def greeting(name):
-    print(f"Hello, {name}! Welcome to Python!");
-# Must have f before the string for it to pass name variable.
-greeting("shane");
+def greeting(name, age):
+    print(f"Hello, {name}! You are {age} years old!");
+# Must have f before the string for it to pass a variable.
+# Added more variables to get a better understanding
+greeting("shane", 24);
 
 # Question 3
 movieList = ["Shang Chi", "Hachi", "Blade", "Mario"];
